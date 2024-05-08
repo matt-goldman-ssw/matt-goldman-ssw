@@ -4,7 +4,7 @@
 * 🔭 I work at SSW https://www.ssw.com.au/people/matt-goldman
 * 😄 Pronouns: He/him 
 
-[![Matt's github stats](https://github-readme-stats.vercel.app/api?username=matt-goldman&theme=dark)](https://github.com/matt-goldman/github-readme-stats)
+[![Matt's github stats](https://github-readme-stats.vercel.app/api?username=matt-goldman-ssw&theme=dark)](https://github.com/matt-goldman-ssw/github-readme-stats)
 
 Cheers  
 Matt Goldman
